@@ -1,0 +1,9 @@
+# MacOs-specific files
+.DS_Store
+
+__pycache__
+.idea
+*.json
+*.csv
+*.db
+.folder
